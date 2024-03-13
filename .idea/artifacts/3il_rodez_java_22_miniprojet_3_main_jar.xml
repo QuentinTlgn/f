@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="3il-rodez-java-22-miniprojet-3-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3il_rodez_java_22_miniprojet_3_main_jar</output-path>
+    <root id="archive" name="3il-rodez-java-22-miniprojet-3-main.jar">
+      <element id="module-output" name="3il-rodez-java-22-miniprojet-3-main" />
+    </root>
+  </artifact>
+</component>
